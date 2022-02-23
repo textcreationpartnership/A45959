@@ -1,0 +1,1268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iö Carole, or, An extract of a letter sent from Parnassus wherein are contained severall epigrames, odes, &amp;c upon His Majesty's coronation.</title>
+            <author>Bocalini, jun.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45959</idno>
+            <idno type="STC">Wing I293</idno>
+            <idno type="STC">ESTC R31152</idno>
+            <idno type="EEBO-CITATION">11781053</idno>
+            <idno type="OCLC">ocm 11781053</idno>
+            <idno type="VID">49058</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45959)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49058)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1485:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iö Carole, or, An extract of a letter sent from Parnassus wherein are contained severall epigrames, odes, &amp;c upon His Majesty's coronation.</title>
+                  <author>Bocalini, jun.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London printed :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Bocalini Jun.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49058:1"/>
+            <pb facs="tcp:49058:1" rendition="simple:additions"/>
+            <p>IÖ CAROLE: OR <hi>An Extract of a Letter ſent from</hi> PARNASSUS, <hi>WHEREIN</hi> Are contained ſeverall EPIGRAMES, ODES, &amp;c. upon <hi>His Maieſty's</hi> Coronation.</p>
+            <p>Printed in the Yeare 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49058:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:49058:2"/>
+            <head>
+               <hi>Superſcrib'd,</hi> To the Reverend and Learned <hi>D<hi rend="sup">r</hi> Jaſper Mayne, England.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">U</seg>Nderſtanding how deſervedly you are numbred among the <hi>Virtuoſo's</hi> of the Age, I have been emboldened upon that account, to ſingle you out for the Per<g ref="char:EOLhyphen"/>ſon whom I ſhould certify of the moſt ſignall occurrences which have hap<g ref="char:EOLhyphen"/>pened lately in this place; Perhaps this ſheet or two may prove troubleſome to the peruſers of Books in generall, and ſomething uncivill towards you in particular; why, if they do, yet as to the firſt the admira<g ref="char:EOLhyphen"/>bleneſſe of their Subject-matter will abundantly excuſe them, which was the cauſe of their comeing forth at all; and as to the ſecond, your Fame will ſhelter them under her ca<g ref="char:EOLhyphen"/>pacious wings, which was the cauſe of their comeing thus Superſcrib'd: The truth is, when I found how acceptable the <hi>Ragguagli di Parnaſſo</hi> (publiſh't by my predeceſſor) was to the ingenious part of mankind, mee thoughts I could not but do the preſent and future generation a very great injury ſhould I have concealed what now I hope may
+<pb n="4" facs="tcp:49058:3"/> have the good fortune to paſſe through your hands far<g ref="char:EOLhyphen"/>ther into the World: Know therefore, Sir, that yeſterday morning His Majeſty <hi>Apollo</hi> diſcarded a <hi>Theologo</hi> of great note, who was diſcovered to have been firſt a <hi>Tre<g ref="char:EOLhyphen"/>muliſt,</hi> then a <hi>Lacu-Lemanian,</hi> then a <hi>Theïſt,</hi> next an <hi>Arnheimian,</hi> and now laſt of all a compleat <hi>Orthodoxo</hi> only for faſhion ſake; Three dayes before that he had caſhier'd <hi>Mercurio Europaeo</hi> his Gazett-writer for pub<g ref="char:EOLhyphen"/>liſhing that for true, which was not ſo, neither was it at all like to be ſo, <hi>viz:</hi> that at the great ſolemnity of the Coronation of your invincible <hi>Archon CHARLES</hi> the <hi>II,</hi> the Prior of <hi>St Trinity</hi> took his place as Alderman of the great City: This morning the Embaſſadours from <hi>Al<g ref="char:EOLhyphen"/>maine,</hi> whoſe errand hither was to be informed what thoſe Fires, Croſſes, Turbants, which they had ſeen at home in the aire might portend, received this Anſwer in His Ma<g ref="char:EOLhyphen"/>jeſties name from the Procurator of the Oracle, <hi>Presbitery is better than Independency, Epiſcopacy is better than Presbytery, but Quakeriſme is better than Trentiſme:</hi> Juſt now at Dinner-time this preſent day, being (if I cal<g ref="char:EOLhyphen"/>culate aright) your firſt of May, there was much joy all o<g ref="char:EOLhyphen"/>ver the Court by reaſon of a certa<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n great benefit which is ſhortly to redownd upon the whole <g ref="char:V">Ʋ</g>niverſe as <hi>Apollo</hi> out of his certain fore-knowledge of things told a near Favorite; the particulars are not known, but it is to bee by a Marriage betwixt two Mighty Princes both living neare the <hi>Atlantick:</hi> Our Agents abroad ſend us not much news, by reaſon of the late happy Generall peace in <hi>Europe;</hi> only from what we have by private intelli<g ref="char:EOLhyphen"/>gence, wee hope ſhortly to ſee from the double top of our Sacred Hill the Christian Princes of the Weſt joyne for<g ref="char:EOLhyphen"/>ces again<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t their common <hi>Mahumetan</hi> enemy upon a better account than the determination of a blind Councell at <hi>Cler<g ref="char:EOLhyphen"/>mont,</hi> that ſo by the help of their ſucceſſefull armes our proud <hi>Ottoman</hi> oppreſſors power may be abated, and he no more
+<pb n="5" facs="tcp:49058:3"/> raiſe armies able to beſiedge <hi>Auſtria;</hi> it being more than time for us to be freed from his Tyranny, and date our let<g ref="char:EOLhyphen"/>ters not from the <hi>Flight of an Impoſtor,</hi> but from the <hi>come<g ref="char:EOLhyphen"/>ing of the true Prophet:</hi> In order to the improvement of Learning his Majesty has referr'd the care of new Experi<g ref="char:EOLhyphen"/>mentall Philoſophy to the honourable R.B. his Hermeticall Eſquire R:H, and the reſt of the Right Knowing <hi>Verula<g ref="char:EOLhyphen"/>mians;</hi> of Platonicall Philoſophy to H. M; of ingenuous writings to J. H. Eſquire; And as for Poëtry (to omit the reſt at preſent) he reſolves to be himſelfe ſtill the vigilant o<g ref="char:EOLhyphen"/>verſeer thereof, and to keep it up in its height; and he has already made good progreſſe in his deſigne by well impro<g ref="char:EOLhyphen"/>ving ſo ſublime a Theme offered as your <hi>Aprill 22 and 23;</hi> for, being informed of the almoſt unutterable glory of thoſe two days, of the Magnificent proceſſe of that ſacred perſon to his Throne, and his more magnificent ſeating there-on, hee preſently ſummon'd all the Poëtts, told 'um what he had heard, required them to exerciſe every one their ſeverall Fancys on ſo extraordinary a ſubject, and appointed <hi>Fam. Strada</hi> Maſter of the Ceremonies; but the ſilly, whymſicall Jeſuite was under a firme reſolution not to accept of any place either of profit or honour out of I know not what ſtrange conceit, for fear (forſooth) leſt he ſhould be taken by ſome <hi>Virtuoſo's</hi> for a Fanatick; where-upon his Majeſty him<g ref="char:EOLhyphen"/>ſelfe without any demur undertook that charge and beckoned to <hi>Homer</hi> to lead; where-at the noble Greek immediately ſtood forth, and expreſt himſelfe to this effect,
+<q>
+                  <lg>
+                     <pb n="6" facs="tcp:49058:4"/>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>:</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>:</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>:</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>:</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>Which <hi>Apollo</hi> himſelfe partly out of reſpect to his Firſt-born ſonne, and partly to honour the <hi>Engliſh</hi> tongue, was pleaſed taking upon him the perſon of <hi>Homer</hi> thus to tranſlate,
+<q>
+                  <lg>
+                     <pb n="7" facs="tcp:49058:4"/>
+                     <l>MUſe tell the World of that late exil'd King,</l>
+                     <l>And not his Suff'rings but his Glory ſing;</l>
+                     <l>Hee once indeed did heavens wrath incurr,</l>
+                     <l>And found <hi>Jove</hi> nothing but a <hi>Thunderer;</hi>
+                     </l>
+                     <l>While he was faine to fly through unknown ways,</l>
+                     <l>Ledd by his Starrs then ſeeming all to blaze;</l>
+                     <l>And this ſore plague was on poor <hi>England</hi> ſent,</l>
+                     <l>That ſhee ſhould play the fool in Government,</l>
+                     <l>Her mighty Monarchy turn'd piddlïng State,</l>
+                     <l>Maſculine Government Effaeminate;</l>
+                     <l>But Heaven now her <hi>Miſerere's</hi> hears,</l>
+                     <l>And towards her Great Lord compaſs'on bears,</l>
+                     <l>Gives him his Golden wand and Azure ball</l>
+                     <l>To ſeem and bee a glorious Prince withall:</l>
+                     <l>Ne'r ſhall this year its room in Story want,</l>
+                     <l>Now <hi>Priams</hi> ſonn ſitts Crown'd in <hi>Troynovant:</hi>
+                     </l>
+                     <l>Oh! what a floud of light from him doth flow!</l>
+                     <l>How like the midday-Sunn it makes him ſhow!</l>
+                     <l>Such cloaths of Gold and Silver kill my braine,</l>
+                     <l>My Opticks faile and I grow blind again:</l>
+                     <l>This Earthly <hi>Jove</hi> all ſorts of men doth pleaſe;</l>
+                     <l>Inlanders leave their homes, Sea-men their Seas,</l>
+                     <l>Both Engliſh born, and they that Neighbours are</l>
+                     <l>A part in ſinging and in ſhouting bear;</l>
+                     <l>You may the like in thoſe fair gardens ſee</l>
+                     <l>Where Thouſands buzz about one Royall-Bee:</l>
+                     <l>Should nature give me now a dozen tongues</l>
+                     <l>And halfe as many paire of luſty lungs,</l>
+                     <l>And thoſe made of the lately ſheathed ſteel,</l>
+                     <l>I could not word the joy three nations feel.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>Next <hi>Virgil</hi> was call'd upon to ſay ſomething in relation to the preſent affaires of the renowned Weſterne Iſle, who ſo quickly took the ſummons that e'r any of the company were aware hee was in the middle of a verſe, and thus (as to what we could hear) hee begann,
+<q>
+                  <lg>
+                     <pb n="8" facs="tcp:49058:5"/>
+                     <l>— Fractus bello fatiſque repulſus</l>
+                     <l>
+                        <hi>CAROLIDES,</hi> cujus tria regna <hi>Wigornia</hi> ſecum</l>
+                     <l>Traxit in exitium, tot jam labentibus annis</l>
+                     <l>(Nam non ſunt aeternae animis coeleſtibus irae,)</l>
+                     <l>Sceptra manu vibrans ſolió<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> potitus avito</l>
+                     <l>Ex alto populos videt atque videtur ab ipſis:</l>
+                     <l>
+                        <hi>Phoebe</hi> (fatebor enim) cùm ſe poſt nubila Clarum</l>
+                     <l>
+                        <hi>CAROLUS</hi> exhibeat, Majeſtatémque ſerenus</l>
+                     <l>Induat antiquam, ſubito haec <hi>Parnaſſeä</hi> ſordent</l>
+                     <l>Culmina, quaerendúm<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Tibi eſt in numine numen;</l>
+                     <l>Ille comâ meliore diem lucêm<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> deaurat</l>
+                     <l>Imbellem, radióſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> T'uos fugat aſtra fugantes;</l>
+                     <l>Imò Tibi, occiduus Talem ſiquando videres,</l>
+                     <l>Eclipſin patienti eſſet nova cauſa ruboris:</l>
+                     <l>Clarus ubi (audivi) regis fratér<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſorór<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </l>
+                     <l>Majoréſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> jacent &amp; avi tumulantur avorum,</l>
+                     <l>
+                        <hi>Spinea</hi> cùm nondum turgeſceret <hi>Inſula</hi> tectis,</l>
+                     <l>Cùm nondum in ſacram <hi>tua moles</hi> ſurgeret <hi>Aedem,</hi>
+                     </l>
+                     <l>Te rude vulgus ibi coluit, numénque vocavit</l>
+                     <l>Et <hi>Phoebum</hi> docuêre referre altaria Myſtae;</l>
+                     <l>Qui modò Te lucém<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Tuam coluêre puſillam,</l>
+                     <l>Hoc quid crediderim facturos principe viſo?</l>
+                     <l>Quòd ſi quid poterit ſplendenti luminis addi</l>
+                     <l>Stat juxtà miſcét<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> jubar <hi>Dux</hi> iuclytus armis;</l>
+                     <l>Nempè avulſo uno non deficit alter &amp; alter</l>
+                     <l>
+                        <hi>CAROLUS,</hi> &amp; geminâ ſtirps regia fronde triumphat;</l>
+                     <l>Fortunati ambo! niſi me praeſagia fallunt</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>eſtra novi condent ingentia facta Poëtae,</l>
+                     <l>
+                        <hi>CAROLIDUM<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan>
+                        </hi> domus <hi>Longâ</hi> dominabitur <hi>Albâ</hi>
+                     </l>
+                     <l>Dum rotet aſtra polus, feriant dum littora venti.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>With how great applauſe this was received I ſhall not rehearſe; <hi>Apollo</hi> (to continue my bare Relation) thought none ſo fit to render the divine <hi>Maro</hi> into Engliſh as the Au<g ref="char:EOLhyphen"/>thor of the <hi>Heroical Epiſtles,</hi> M. D; him therefore by a beck he deſigned to that office, who thus performed it,
+<q>
+                  <lg>
+                     <pb n="9" facs="tcp:49058:5"/>
+                     <l>GReat CHARLES by warr, and adverſe Fate undone,</l>
+                     <l>From whom three Nations in one field were wonne,</l>
+                     <l>At laſt (for heaven doth not alwaies frowne)</l>
+                     <l>Handles his Scepter, and putts on his Crowne;</l>
+                     <l>And from the higheſt ſeat of Majeſty</l>
+                     <l>Sees his good people thronging him to ſee:</l>
+                     <l>Sir, I muſt tell you, now that HEE is freed</l>
+                     <l>From thoſe thick clowdes, and ſhines as King indeed,</l>
+                     <l>I ſee no glory in this glorious place,</l>
+                     <l>And Majeſty is ſetting in your face;</l>
+                     <l>Hee guilds your gold, and makes a double day;</l>
+                     <l>Starrs fly from yours, from his your feebler ray;</l>
+                     <l>Should your when ſetting ſee the like, you'ld find</l>
+                     <l>More cauſe to bluſh in being ſo out-ſhin'd:</l>
+                     <l>In that rich Minſter, where (as I have heard)</l>
+                     <l>Lye CHARLES's kinn and Aunceſtors interr'd,</l>
+                     <l>E'r ſtately houſes cover'd <hi>Thorny Iſle,</hi>
+                     </l>
+                     <l>E'r your profaner Moſque turn'd ſacred Pile,</l>
+                     <l>There in that place men own'd you for Divine,</l>
+                     <l>Sung hymnes unto you, worſhipt at your ſhrine;</l>
+                     <l>They who ador'd beholding petty you</l>
+                     <l>Should th'have a ſight of Him what would they do?</l>
+                     <l>Now if ſuch glory augmentable ſeems</l>
+                     <l>The Warlike Duke ſtands by, and mixes beams;</l>
+                     <l>See, two for one! if CHARLES the Martyr bleeds</l>
+                     <l>Another and another ſtill ſuceeds:</l>
+                     <l>Partners in bliſſe! ne'r ſhall there want a verſe</l>
+                     <l>(If I know ought) your Actions to rehearſe,</l>
+                     <l>And your great Fam'ly in <hi>White-Hall</hi> ſhall Reign</l>
+                     <l>As long as Iſles have ſhores, or Charles a Waine.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>The Eſquire had no ſooner done but up ſtood <hi>Ovid,</hi> and very well underſtanding himſelfe to be the next to <hi>Virgill</hi> both in ability and renowne, as alſo plainly foreſeeing how ill it would bee reſented if he ſhould be ſilent in ſuch a caſe prevented the invitation, and of his hwn accord ſweetly ſmi<g ref="char:EOLhyphen"/>led out theſe inſuing lines,
+<q>
+                  <lg>
+                     <pb n="10" facs="tcp:49058:6"/>
+                     <l>DII Maris &amp; Terrae! nam (quae ſunt ſaecula nobis)</l>
+                     <l>Et Maris &amp; Terrae diſcimus eſſe Deos;</l>
+                     <l>Eia, bonum factum! ſupero quòd <hi>Carolus</hi> anno</l>
+                     <l>In ſua ſit placidis regna revectus aquis;</l>
+                     <l>Eia, bonum factum! quòd &amp; hoc modò <hi>Carolus</hi> anno</l>
+                     <l>Ad ſua ſit nitidis tecta revectus equis:</l>
+                     <l>
+                        <hi>Naſo Tomitanae</hi> notiſſimus incola terrae</l>
+                     <l>Ah! ſcio quid patrio ſit caruiſſe ſolo;</l>
+                     <l>Non tamen id vatem quod ſum grave paſſus adurit,</l>
+                     <l>Sed quod ſustinuit <hi>Carolus</hi> exilium;</l>
+                     <l>Nempè cadunt arbuſta, jacent pro more myricae;</l>
+                     <l>Aegrè procumbit celſior ulmus humi:</l>
+                     <l>Me miſerum! quantos viduata <hi>Britannia</hi> luctus,</l>
+                     <l>Quanta diu rapto Principe damna tulit!</l>
+                     <l>Sive <hi>Scotos</hi> aliquis Dominum non ritè tuentes</l>
+                     <l>Narrârit, <hi>Scoticum</hi> corda tulêre gelu;</l>
+                     <l>Seu quis in <hi>Angliacum Gallorum</hi> murmura Regem</l>
+                     <l>Innuerit, miſerae <hi>Gallia</hi> luctus erat;</l>
+                     <l>Seu quis pugnantes <hi>Dunkerkae</hi> dixerit Anglos,</l>
+                     <l>Et <hi>Dunkirka</hi> novi cauſa doloris erat;</l>
+                     <l>Plura ego non memoro; quid enim memoraſſe juvabit?</l>
+                     <l>Praeteritus minuet gaudia tanta dolor:</l>
+                     <l>Tam tardè adveniens lachrymas expreſſit <hi>Aprilis,</hi>
+                     </l>
+                     <l>At<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> omnis planè menſis <hi>Aprilis</hi> erat;</l>
+                     <l>Hic iſtas oriens Sol ſiccat lumine guttas,</l>
+                     <l>Alter ut ille Orbis <hi>Caeſaris</hi> ora videt:</l>
+                     <l>Ergò ego <hi>Saturnum, Martém<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> Jovém<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan>
+                        </hi> ſilebo,</l>
+                     <l>Implentémque libros <hi>Amphitryoniadem;</hi>
+                     </l>
+                     <l>Námque quid <hi>Alcides?</hi> regnavit ſanguine multo,</l>
+                     <l>Geſſit bella, hominum corpora ſtravit humi;</l>
+                     <l>Sed pacem revocare, animáſque domare rebelles</l>
+                     <l>
+                        <hi>Herculis</hi> eſt <hi>decimus tertius</hi> iſte <hi>Labor.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </p>
+            <p>What he expreſſed in Latine was as elegantly rendered into Engliſh by <hi>Mr Sands,</hi> in this manner;
+<q>
+                  <lg>
+                     <pb n="11" facs="tcp:49058:6"/>
+                     <l>YEE Pow'rs upon the Land, and Pow'rs by Sea,</l>
+                     <l>For (as things goe) both ſorts of Pow'rs there bee,</l>
+                     <l>Thanks for your laſt-years courteſy before</l>
+                     <l>In ſetting CHARLES upon his native ſhore;</l>
+                     <l>Thanks for your this-years favour to him ſhow'n</l>
+                     <l>In bringing him in triumph to his Throne:</l>
+                     <l>Forced my ſelfe to <hi>Scythia's</hi> ice and ſnow</l>
+                     <l>What 'tis to ſuffer Baniſhment I know;</l>
+                     <l>Thither I went, and well could tarry there,</l>
+                     <l>But CHARLES's baniſhment I could not bear:</l>
+                     <l>The ground is fitt for ſuch poore ſhrubbs as I;</l>
+                     <l>But Elmes and Oakes are'nt us'd ſo low to ly:</l>
+                     <l>Ah mee! what feares did headleſſe <hi>England</hi> ſeize!</l>
+                     <l>How the Great Widdow wept her ſelfe new Seas!</l>
+                     <l>How 'mongſt the <hi>Scotts</hi> he far'd if any told,</l>
+                     <l>Her heart ſoon imitated <hi>Scotlands</hi> cold;</l>
+                     <l>Hearing the <hi>French</hi> againſt him murmured,</l>
+                     <l>Thoſe murmurings in her new troubles breed;</l>
+                     <l>Being inform'd of <hi>Dunkirk's</hi> bloudy fight</l>
+                     <l>The name of <hi>Dunkirk</hi> put her in a fright;</l>
+                     <l>I'l not relate the reſt; t'will do no good,</l>
+                     <l>T'would ſpoile theſe preſent triumphs if I ſhould;</l>
+                     <l>For want of ſuch an <hi>Aprill</hi> 23.</l>
+                     <l>Each month a ſhowry <hi>Aprill</hi> ſeem'd to bee;</l>
+                     <l>That Sunne now riſeing dryes up every teare,</l>
+                     <l>While he doth there to <hi>th'other World</hi> appeare:</l>
+                     <l>Then farewell <hi>Saturne, Jove,</hi> and <hi>Mars,</hi> all three;</l>
+                     <l>And <hi>Hercules</hi> that fills up Hiſtory;</l>
+                     <l>For what did hee? hee in his furious mood</l>
+                     <l>Conquer'd men's bodys, ſpilt in warr their bloud;</l>
+                     <l>But to make peace, and quell mens paſſions too,</l>
+                     <l>This t'other <hi>Hercules</hi> could never do.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>
+               <hi>Martiall</hi> was under a clowd at this time, and <hi>Apollo</hi> made a demurr whether he ſhould be imployed or not; but for fear of diſcouraging his grand <hi>Epigrammatiſt</hi> whom ſuch a ſlight would quite undoe, and a little time might chance to reform, he ſet him on worke, and this was the whole almoſt of what he produce't;</p>
+            <q>
+               <lg>
+                  <pb n="12" facs="tcp:49058:7"/>
+                  <head>Ad Lyoolitam.</head>
+                  <l>ATtende, <hi>Loyolita,</hi> te velim paucis,</l>
+                  <l>Tam grande nè placeat tibi nimis Dictum;</l>
+                  <l>Modò verte Splendores <hi>Britannicos</hi> versùs,</l>
+                  <l>Citra tuam Monarchiam <g ref="char:V">Ʋ</g>niverſalem</l>
+                  <l>Potes <hi>videre Solem in Occidente Ortum.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Ad Phoebum.</head>
+                  <l>Q<g ref="char:V">Ʋ</g>aero ubi ſit <hi>CAROLUS;</hi> reſpondes <hi>(Phoebe)</hi> roganti,</l>
+                  <l>Ante <hi>Palatinas</hi> concidit ille fores,</l>
+                  <l>Concidit? âh, miſerè tua nos oracula fallunt</l>
+                  <l>Falſum <hi>(Phoebe)</hi> canis Tú<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>, Tripúſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tuus;</l>
+                  <l>Concidit? Eccum ipſum! vivum, diademate cinctum!</l>
+                  <l>Quàm par mens, ſimilis gloria, nomen idem!</l>
+                  <l>Credimus <hi>Aſſyrios</hi> renovant incendia nidos,</l>
+                  <l>Fabellae faciunt geſta hodiurna fidem;</l>
+                  <l>Jam fruſtra in Dominos plebs ferrea ſaeviet; in ſe</l>
+                  <l>
+                     <hi>Regius</hi> en <hi>regni ſemina ſanguis habet.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>Ad Rotatorem Fanaticum.</head>
+                  <l>
+                     <hi>HArringtone,</hi> rotae faber jocoſae,</l>
+                  <l>Nonnullus (fateor) tui Rotundi</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>ſus nuper erat, nec ipſe multùm</l>
+                  <l>Errabas <hi>Carolo</hi> jacente noſtro;</l>
+                  <l>Poſtquám advenerit alma Lux <hi>Geörgî</hi>
+                  </l>
+                  <l>Iſtam Machinulám<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> té<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tollas;</l>
+                  <l>Scis verſatilis ut potentiorum</l>
+                  <l>Fortunam Rota Principum figurat;</l>
+                  <l>Scis quiſnam radius (perite rerum)</l>
+                  <l>Ad terras humili ſitu jacebat;</l>
+                  <l>Ille ut debuerat, volente Fato,</l>
+                  <l>Aſcendens propiora cernit aſtra,</l>
+                  <l>At<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Illo Rota culminante tandem</l>
+                  <l>Stat nunc fixa nec amplius movetur.</l>
+               </lg>
+            </q>
+            <p>There wanted a fit perſon to be imployed in the tranſla<g ref="char:EOLhyphen"/>tion of <hi>Martiall,</hi> but for want of a better <hi>Sylveſter</hi> did him thus into Engliſh,</p>
+            <q>
+               <lg>
+                  <pb n="13" facs="tcp:49058:7"/>
+                  <head>To B. the Jeſuite.</head>
+                  <l>COme, <hi>Jeſuite,</hi> and let mee thee adviſe,</l>
+                  <l>Do'nt thou thy known proud <hi>Motto</hi> too much prize;</l>
+                  <l>On <hi>Englands</hi> preſent glory caſt thy eyes,</l>
+                  <l>A ſleep thy Univerſall Monarch lyes,</l>
+                  <l>Yet <hi>ſee the Sunn there in the West ariſe.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>To Apollo.</head>
+                  <l>WHere's mighty CHARLES? <hi>Apollo,</hi> where? relate;</l>
+                  <l>Hee's murder'd, anſwear'ſt thou, at his own gate;</l>
+                  <l>Murder'd? no, ſurely thou'rt miſtaken there,</l>
+                  <l>Deceiv'd art thou, and Fallible thy Chaire;</l>
+                  <l>Murder'd? no, there he ſitts, alive, and Crown'd,</l>
+                  <l>With th'ſame high ſoul; ſame name, and luſtre found:</l>
+                  <l>The <hi>Phaenix</hi> in the fire is borne anew,</l>
+                  <l>Theſe paſſages do prove that ſtory true:</l>
+                  <l>Rebells, no more rejoyce to ſee Kings dye;</l>
+                  <l>
+                     <hi>Their bloud,</hi> you find, <hi>'s the ſeed of Monarchy.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>To him that ſpake laſt at the Rota.</head>
+                  <l>STate-wheel-wright, I muſt needs allow</l>
+                  <l>Thy whimm was uſefull once and thou;</l>
+                  <l>Thou ſeemedſt orthodox of late</l>
+                  <l>Whilſt CHARLES was yet unfortunate;</l>
+                  <l>Now there ha's been a <hi>Georges</hi>-day</l>
+                  <l>Engine and Engineer away;</l>
+                  <l>The Wheel thou know'ſt was found long ſince</l>
+                  <l>To ſhew the Fortunes of a Prince;</l>
+                  <l>Neither can'ſt thou well but know</l>
+                  <l>What ſpoke did lately down-ward goe;</l>
+                  <l>That's Culminant (Fate turning round)</l>
+                  <l>As nigh the ſtarrs as once the ground,</l>
+                  <l>And now that to the topp hath runn</l>
+                  <l>The Weel muſt fix, its Motion's done.</l>
+               </lg>
+            </q>
+            <p>The Latine Poëtts having pretty well playd their parts, his Majeſty and the whole company lookt all ſtedfastly now up<g ref="char:EOLhyphen"/>on <hi>Du Bartas,</hi> now upon <hi>T. Taſſo,</hi> which was a ſufficient
+<pb n="14" facs="tcp:49058:8" rendition="simple:additions"/> ſigne what was expected from thoſe two, hereupon they both ſtood forth, but inſtead of falling to the buſineſſe in hand en<g ref="char:EOLhyphen"/>terr'd into a diſpute concerning their precedency one before the other, and appeal'd to <hi>Apollo</hi> which ſide of the Moun<g ref="char:EOLhyphen"/>taine was the more fertile ſoile for witts, and whither had more right to begin firſt the <hi>French-man</hi> or the <hi>Italian;</hi> his Majeſty bade them both ſit downe again for the preſent, and come again for judgement an <hi>100</hi> years hence; then turn<g ref="char:EOLhyphen"/>ing towards the Engliſh Poëtts, he thought to have brought old <hi>Jeffery</hi> upon the ſtage, but conſidering how little diffe<g ref="char:EOLhyphen"/>rence there is both as to matter and ſtile between him and <hi>Spencer,</hi> he pitch't upon the laſt, who entertain'd us with this Dialogue betwixt one <hi>Thenot</hi> an honest Shepheard and one <hi>Hobbinol</hi> a Fanatick Goatheard.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="dialogue">
+                        <stage>Thenot. Hobbinol.</stage>
+                        <sp>
+                           <speaker>The.</speaker>
+                           <l>
+                              <hi>HObbin,</hi> to mee a read what garrs thee greet?</l>
+                           <l>What maken thee ſo Melancholy?</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>
+                              <hi>Thenot,</hi> much is y done that is not meet,</l>
+                           <l>I ſigh at London peeples folly;</l>
+                        </sp>
+                        <sp>
+                           <speaker>The.</speaker>
+                           <l>Miſchiefe on ſighs; what art the bett for thy?</l>
+                           <l>Riſe and with mee to Cotſwold goe;</l>
+                           <l>Thither our bonny ladds apace do hie,</l>
+                           <l>Dover been there again, I trow;</l>
+                           <l>Come, <hi>Hobbin,</hi> let us frisk it o'r the plaine</l>
+                           <l>Wee will friſk it merrily;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>Tho thou wouldſt have mee bee a dancer, Swaine;</l>
+                           <l>Nay, I may not dance with thee;</l>
+                        </sp>
+                        <sp>
+                           <speaker>The.</speaker>
+                           <l>But thou maiſt friſk it when y bidd by Pan,</l>
+                           <l>Who will have us end our woe;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>How do I know that Pan commands it? Man;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Then.</speaker>
+                           <l>The lit within us twinckles ſo;</l>
+                           <l>Tho, as thou art a ladd, do ne yſhend</l>
+                           <l>Our roundells freſh with ruthfull lay;</l>
+                           <l>To eek our jollity wee all intend,</l>
+                           <l>Our King maken thilk holy-day:</l>
+                        </sp>
+                        <sp>
+                           <pb n="15" facs="tcp:49058:8"/>
+                           <speaker>Hob.</speaker>
+                           <l>I ken not why there ſhould be any King,</l>
+                           <l>Nature ordained parity;</l>
+                        </sp>
+                        <sp>
+                           <speaker>The.</speaker>
+                           <l>Tho congy to thy boy this evening,</l>
+                           <l>Hee was born as good as thee:</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>Is not a Knit of Bath an uncouth thing?</l>
+                           <l>Many a one afore him went;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Then.</speaker>
+                           <l>Religious Knits fitt a Religious King,</l>
+                           <l>And their Order is moſt decent:</l>
+                           <l>O it would be a lawfull dignity</l>
+                           <l>Were a redd ribbond ſent to you;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>At, but thoſe habitts come from Rome Citty;</l>
+                        </sp>
+                        <sp>
+                           <speaker>The.</speaker>
+                           <l>So did the Evangel too;</l>
+                           <l>Is wine the worſe for being Laterane</l>
+                           <l>When from Italy ſent hither?</l>
+                           <l>Does holy Bible ſtrait turne Alcoran</l>
+                           <l>Becauſe y bound in Turky leather?</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>The others eke I hate as cruelly</l>
+                           <l>Thoſe buxom Knits of the Round Garter,</l>
+                           <l>Who, I am taught, founded were by—by—by</l>
+                           <l>That Popiſh King our Brittiſh Arter;</l>
+                        </sp>
+                        <sp>
+                           <speaker>Then.</speaker>
+                           <l>Ah ſeely Hobbin! hott cole on thy toung;</l>
+                           <l>Thus chatten folk they know not what;</l>
+                           <l>It is a faſhion Chriſtian Kings emong,</l>
+                           <l>What Anſwer yeue yee unto that?</l>
+                           <l>Such decency all ſorts of peeple uſe,</l>
+                           <l>And all rejoyce thilke day to ſee</l>
+                           <l>But only you whom fowl leaſings abuſe,</l>
+                           <l>And robben of your whilome glee:</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>Then I'l bee blith (ſo pleaſeth mee) and ſing;</l>
+                           <l>I'l dance about as I were wood,</l>
+                           <l>And drinken healths unto our gratious King,</l>
+                        </sp>
+                        <sp>
+                           <speaker>Then.</speaker>
+                           <l>You're mov'd thereto, therefore t'is good:</l>
+                        </sp>
+                        <sp>
+                           <speaker>Hob.</speaker>
+                           <l>Il'l hang his picture ev'ry wall upon,</l>
+                           <l>Cut <hi>C's</hi> and <hi>R's</hi> in all my box;</l>
+                           <l>Certes <hi>James Naylor</hi> is a very ſon,</l>
+                           <l>
+                              <hi>Georg Fox</hi> (I ween)s very Fox.</l>
+                        </sp>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="16" facs="tcp:49058:9"/>
+            <p>Next <hi>Quarles</hi> ſucceeded, and knowing his excellency to lye in Illuſtration of Emblemes ſpake to the preſent purpoſe by way of alluſion to the frontiſpeice of that Sacred piece, which wee have here written in Letters of Gold, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Which I reckon would be in vain to deſcribe, ſee<g ref="char:EOLhyphen"/>ing there are none who have ſeen any thing but they have ſeen that; thus the ingenuous Gentleman deſcanted upon it,</p>
+            <q>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>HOw does the table ſuite with what's been done,</l>
+                  <l>That cutt with what wee ſee!</l>
+                  <l>How well the Father's <hi>Mottoe's</hi> fitts the Sonne!</l>
+                  <l>How both their lives agree!</l>
+                  <l>His Sire through ſufferings did in triumph runn,</l>
+                  <l>And thorough them runns hee;</l>
+                  <l>Grammercy they who e'r this Embleme drew;</l>
+                  <l>This will the buſineſſe fully ſhew;</l>
+                  <l>I knew not where to borrow any elſe would do.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Though tumults rag'd againſt the King as high</l>
+                  <l>As 'gainſt the rock the Sea,</l>
+                  <l>Though a darke night all overcaſt his skye</l>
+                  <l>As dark as dark can bee,</l>
+                  <l>Though there did heavier burdens on him lye</l>
+                  <l>Than on the patient tree,</l>
+                  <l>The Rock had learn't (like <hi>Terminus</hi>) to ſtay,</l>
+                  <l>The night has turn'd a glorious Day,</l>
+                  <l>The Palme-tree's glory has anticipated <hi>May.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Never let loyall Rock fear boiſterous Fate,</l>
+                  <l>Since CHARLES unſhook has been;</l>
+                  <l>Nor <hi>England's</hi> Day e'r dread a night in ſtate,</l>
+                  <l>Since CHARLES's is ſerene;</l>
+                  <l>Never let Royall Palme fear any weight</l>
+                  <l>Since CHARLES's is ſo green;</l>
+                  <l>And may that ſure-fixt Rock no motion know,</l>
+                  <l>That Sunn may he ſtill brighter ſhow;</l>
+                  <l>May that Great Palm-tree greener ſtill and greener grow.</l>
+               </lg>
+            </q>
+            <pb n="17" facs="tcp:49058:9"/>
+            <p>In the next place there were preſented to his Majesty di<g ref="char:EOLhyphen"/>verſe <hi>Coronation Poëms,</hi> (as they were called,) to the num<g ref="char:EOLhyphen"/>ber of <hi>17, 16</hi> whereof wereof were never look't into, <hi>Apol<g ref="char:EOLhyphen"/>lo</hi> having enough and too too much of the firſt, a <hi>Tetraſtick</hi> whereof be pleaſed to take in the Authors own words,
+<q>
+                  <l>(Twelve months agoe our Royall Sove'reigne land-</l>
+                  <l>Ed at the <hi>Dover</hi> cliffs in ſafety and</l>
+                  <l>Enterr'd his Kingdome; now, behold! hee ſitts</l>
+                  <l>Enthron'd, and they whoſe rebellious fitts; &amp;c.)</l>
+               </q>
+            </p>
+            <p>And from thence judge how juſtly the inditer there-of and his brethren were honourably diſmiſt each of them with a wreath of <hi>Abſinthium Umbelliferum tenuiſolium,</hi> and a noſegay of <hi>Atriplex ollida:</hi>
+            </p>
+            <p>Theſe Pamphletteers being departed, his Majeſty by way of divertiſement curſorily peruſed an <hi>Heroïck Poëm</hi> intitled <hi>CAROLEIS,</hi> which was written by a <hi>Virtuoſo</hi> of your own nation, (ſome ſay a <hi>Theologo</hi>) but came hither to beg an <hi>Im<g ref="char:EOLhyphen"/>primatur;</hi> I may not ſend you a compleat copy thereof untill it be Licenſed, but (if your patience be not quite tired out) you may take a taſt of the whole in theſe few <hi>Stanza's:</hi>
+               <q>
+                  <lg n="1">
+                     <head>1.</head>
+                     <l>NOw had our Royall Eagle for ſome time</l>
+                     <l>Been forc't through Aire none of his own to fly,</l>
+                     <l>While paltry rookes into his Throne did climbe</l>
+                     <l>Feather themſelves and ſet their neſts on high.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>When that Great Monarch on whom Myriads wait,</l>
+                     <l>Who wiſely rules the World he wiſely made,</l>
+                     <l>Summon'd his flameing Miniſters of State,</l>
+                     <l>And in the midd'ſt of them ſate downe, and ſaid;</l>
+                  </lg>
+                  <lg n="3">
+                     <pb n="18" facs="tcp:49058:10"/>
+                     <head>3.</head>
+                     <l>"Who of you minds my World's more Weſterne part?</l>
+                     <l>"Who'l place the <hi>Engliſh</hi> King on <hi>Engliſh</hi> ground?</l>
+                     <l>"Who'l counter-work Hell's plotts with Heavenly art,</l>
+                     <l>"And ſo procure the Royall Exile Crown'd?</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>"<hi>There is a time for wrath, a time for love;</hi>
+                     </l>
+                     <l>"I can no longer now forbear my ſmiles;</l>
+                     <l>"If I am Monarch, if I reigne above</l>
+                     <l>"Hee ſhall be King below, and rule thoſe Iſles:</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>
+                        <hi>Englands</hi> unſeen <hi>Protectour</hi> then aroſe,</l>
+                     <l>Or, if that word hath been too much profan'd,</l>
+                     <l>The Spirit which for <hi>Brittains Guardian</hi> goes</l>
+                     <l>Boldly took heart, and openly complain'd;</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>"Sole Conſervator of the Univerſe,</l>
+                     <l>"I would preſume at length to make my moane;</l>
+                     <l>"But (ah!) what tongue is able to rehearſe</l>
+                     <l>"What my poor Province there has undergone?</l>
+                  </lg>
+                  <lg n="7">
+                     <head>7.</head>
+                     <l>"My <hi>Albion</hi> long ſince had changed her name,</l>
+                     <l>"But never loſt till now her Happineſſe;</l>
+                     <l>"Shee's nor in Church, nor yet in State the ſame,</l>
+                     <l>"By your permiſſion Prieſtleſſe, Monarch-leſſe.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>8.</head>
+                     <l>"By your Permiſſion we are ſure 'tis ſo,</l>
+                     <l>"But ſhould that your Permiſſion laſt too long</l>
+                     <l>"T'would ſeem your Will, and men would think below</l>
+                     <l>"You're like themſelves and doe delight in wrong:</l>
+                  </lg>
+                  <lg n="9">
+                     <head>9.</head>
+                     <l>"Then, ôh, both Court and Clergy now reſtore,</l>
+                     <l>"And that brave land in unity maintaine,</l>
+                     <l>"Leaſt what my deareſt <hi>Ina</hi> joyn'd before</l>
+                     <l>"Fall into more then <hi>Heptarchy</hi> againe.</l>
+                  </lg>
+                  <lg n="10">
+                     <head>10.</head>
+                     <l>"And thoſe who ſo audaciouſly of late</l>
+                     <l>"Voted downe Service-book and Monarchy</l>
+                     <pb n="19" facs="tcp:49058:10"/>
+                     <l>"Diſturb, diſtract, confound, infatuate,</l>
+                     <l>"Or elſe they'l next vote downe your Deïty:</l>
+                  </lg>
+                  <lg n="11">
+                     <head>11.</head>
+                     <l>"CHARLES ripe for hundreds wants one Diadem</l>
+                     <l>"Robb'd of his treaſures, countrey, friends and all;</l>
+                     <l>"Oh might I ſteale from <hi>Flanders</hi> ſuch a gem!</l>
+                     <l>"Oh might I be his Guide unto <hi>White-halt!</hi>
+                     </l>
+                  </lg>
+                  <lg n="12">
+                     <head>12.</head>
+                     <l>"Say but the word, I runn, I fly, I'm there;</l>
+                     <l>"My haſt no <hi>medium</hi> nor diſtance checks;</l>
+                     <l>"I'le ſoon unrooſt the Rump from <hi>Westminſter,</hi>
+                     </l>
+                     <l>"And fix the <hi>Hydra's</hi> heads on other necks:</l>
+                  </lg>
+                  <lg n="13">
+                     <head>13.</head>
+                     <l>"I'le Him in his Great Loyall City ſett,</l>
+                     <l>"And bring him in ſuch ſtate unto his throne,</l>
+                     <l>"That people ſhall all former pomps forgett,</l>
+                     <l>"And Hiſtory not mention that of <hi>Scone.</hi>
+                     </l>
+                  </lg>
+                  <lg n="14">
+                     <head>14.</head>
+                     <l>"And ſo thou ſhalt (was Anſwear'd) I decree,</l>
+                     <l>"But let us take advice, my Faithfull one;</l>
+                     <l>"How may this buſineſſe beſt effected bee?</l>
+                     <l>"Which courſe d'yee ſteer, &amp; what muſt firſt be done? <hi>&amp;c.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </p>
+            <p>His Majeſty having given his verdict of and commands a<g ref="char:EOLhyphen"/>bout this <hi>Heroïck Poëm</hi> laid it by, and deſired the <hi>Virtuo<g ref="char:EOLhyphen"/>ſo</hi> which brought him the joyfull news, and had not yet left the Court, to conclude the day, who recollecting ſuch thoughts as he had in the ſtreet before, in the Abby at, and at home af<g ref="char:EOLhyphen"/>ter the Coronation putt them all into this following <hi>Ode.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="ode">
+                        <head>ODE.</head>
+                        <lg>
+                           <l>T'Is Hee; ôh! I ſhall view him o'r and o'r!</l>
+                           <l>That is the Duke which comes before;</l>
+                           <l>And this, it is the Abby-doore;</l>
+                           <l>Open thy doore, thou houſe divine,</l>
+                           <l>Thou art not make-bate <hi>Janus</hi> ſhrine,</l>
+                           <l>Open, in thee to day our CHARLES will ſhine:</l>
+                        </lg>
+                        <lg>
+                           <pb n="20" facs="tcp:49058:11"/>
+                           <l>Thou one continued Monument haſt been</l>
+                           <l>To ſhew that Prince, and King, and Queen</l>
+                           <l>High perſons dye as well as meane;</l>
+                           <l>Thou haſt been of'ts Mortality,</l>
+                           <l>Now thou ſhalt a witneſſe bee</l>
+                           <l>Of th'Reſurrection of Majeſty:</l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>Peter,</hi> thy keys; let in our Soveraigne</l>
+                           <l>Into thy Illuſtrious Fane,</l>
+                           <l>Pounds not Pence ſhall be thy gaine;</l>
+                           <l>Though wee're not Anti-Chriſtian,</l>
+                           <l>Nor think the King more than a man,</l>
+                           <l>Thy Abby ſhall out-pomp thy <hi>Vatican:</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>Rich Veſtments make the Lords Spirituall gay,</l>
+                           <l>Coronets adorne the Lay,</l>
+                           <l>Then I'l put on my wreath of Bay,</l>
+                           <l>And for a kind of Poët goe,</l>
+                           <l>(Worſer then I have do'nt I know,)</l>
+                           <l>And bear my petty part in this great ſhow:</l>
+                        </lg>
+                        <lg>
+                           <l>Arch-Angells (ſure) leaving their glorious ſphear</l>
+                           <l>Themſelves have bodyfied here</l>
+                           <l>Engliſh Nobles to appear;</l>
+                           <l>And Earthly, groſſe, corporeall wee</l>
+                           <l>Crowding ſo thick our King to ſee</l>
+                           <l>Uſe their laid-by Penetrability:</l>
+                        </lg>
+                        <lg>
+                           <l>Men uſed to be waited on can wait,</l>
+                           <l>Nor does their Pomp there-by abate,</l>
+                           <l>Since here to bows to ſit in ſtate,</l>
+                           <l>And now may CHARLES's luſtre bee</l>
+                           <l>The <hi>Proto-type</hi> of Majeſty,</l>
+                           <l>The Emperour's not <hi>King of Kings,</hi> but <hi>Hee:</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>The newly-found <hi>Egyptian Anubis</hi>
+                           </l>
+                           <l>But a dull <hi>Hieroglyphick</hi> is</l>
+                           <l>Of our Kings glory, Kingdomes bliſſe;</l>
+                           <pb n="21" facs="tcp:49058:11"/>
+                           <l>
+                              <hi>Italy,</hi> though high ſhee ſings,</l>
+                           <l>Here-of no full reſemblance brings</l>
+                           <l>
+                              <hi>Conſular</hi> triumphs were ſuch puny things.</l>
+                        </lg>
+                        <lg>
+                           <l>The Father now would ſlight Victorious <hi>Paul,</hi>
+                           </l>
+                           <l>His entrance, perſon, name and all,</l>
+                           <l>To ſee theſe Peers this Prince inſtall;</l>
+                           <l>Hee'd find when <hi>Rome</hi> ſubdu'd her foes</l>
+                           <l>Shee came as ſhort of us in ſhowes</l>
+                           <l>As now her modern Glories do of thoſe;</l>
+                        </lg>
+                        <lg>
+                           <l>Of all the Objects which ſight-worthy bee</l>
+                           <l>If he might have his choice of three</l>
+                           <l>What would he chooſe? what would hee ſee?</l>
+                           <l>Hee'd ſee the <hi>Man</hi> with God-head fill'd,</l>
+                           <l>See the <hi>Tent maker</hi> Churches build,</l>
+                           <l>See CHARLES's beames this <hi>OEta-Minſter</hi> guild:</l>
+                        </lg>
+                        <lg>
+                           <l>That ſpeck of Majeſty, I ſhould ſay ſpott,</l>
+                           <l>Though wee with ſoules eſteem'd him not,</l>
+                           <l>Some of <hi>the many's</hi> honour gott;</l>
+                           <l>Though they ſaw <hi>Noll</hi> headlong runn</l>
+                           <l>And ſett all in combuſtion,</l>
+                           <l>Yet <hi>Phaëthon</hi> with them went for a <hi>Sunn;</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>Minuteſt things which to our eye doe come</l>
+                           <l>Through a watry <hi>Medium</hi>
+                           </l>
+                           <l>Seem to be great and fill much roome;</l>
+                           <l>Thus <hi>Cromwell's</hi> lowneſſe high appears,</l>
+                           <l>His narrowneſſe a great breadth bears,</l>
+                           <l>While men oppreſt look on him thorough tears;</l>
+                        </lg>
+                        <lg>
+                           <l>But now the Scepter's ſweeter for his ſword,</l>
+                           <l>That Caytiffe does this good afford</l>
+                           <l>The foile ſetts off our native Lord;</l>
+                           <l>So Diamonds do for Diamonds paſſe</l>
+                           <l>When confronted by dimm glaſſe,</l>
+                           <l>So Silver ſhines the more when plac't by braſſe?</l>
+                        </lg>
+                        <lg>
+                           <pb n="22" facs="tcp:49058:12"/>
+                           <l>
+                              <hi>White-hall</hi> and <hi>Lambeth-houſe</hi> ſince one CHARLES dy'd</l>
+                           <l>With ſmall delight themſelves have ſpy'd</l>
+                           <l>In th'waters which betwixt 'um glide;</l>
+                           <l>They ſaw themſelves turn'd upſide down,</l>
+                           <l>Gone was the Miter and the Crowne,</l>
+                           <l>Fal'n were their propps King's robe and Biſhop's gowne;</l>
+                        </lg>
+                        <lg>
+                           <l>But all things now 're again ſerene and clear,</l>
+                           <l>Now they like themſelves appear,</l>
+                           <l>Now their ſtately topps they rear;</l>
+                           <l>Yonder ſitts he in our view</l>
+                           <l>Who'l give both Church and State their due,</l>
+                           <l>King long agoe, at laſt anoynted too.</l>
+                        </lg>
+                        <lg>
+                           <l>Were't not for th' <hi>Iö-Paeans</hi> of the towne,</l>
+                           <l>The depths of nature I would ſound,</l>
+                           <l>Into my ſelfe I would goe down</l>
+                           <l>And ſeriouſly ruminate</l>
+                           <l>What 'twas could cauſe his ſo hard fate,</l>
+                           <l>What is the reaſon he is Crown'd ſo late;</l>
+                        </lg>
+                        <lg>
+                           <l>Did redd-coat <hi>Mars</hi> into rebellion runn,</l>
+                           <l>And confront the King his Sunn,</l>
+                           <l>Preſageing what ſhould here be done?</l>
+                           <l>Did <hi>Iron-ſide</hi> in former days</l>
+                           <l>Eclipſe the gold which Sol diſplays</l>
+                           <l>And make a new ſpott in's Meridian rays?</l>
+                        </lg>
+                        <lg>
+                           <l>Did <hi>Charles's waine</hi> fling its bright rider down?</l>
+                           <l>Or did the ſtarrs of either <hi>Crowne</hi>
+                           </l>
+                           <l>Look ſomething dull, and ſeem to frowne,</l>
+                           <l>As <hi>Thummin</hi>-ſtones their ſhine would looſe</l>
+                           <l>And prognoſticate ſadd news</l>
+                           <l>When God to bleſſe a deſigne did refuſe?</l>
+                        </lg>
+                        <lg>
+                           <l>Was it becauſe that he was rule to bear</l>
+                           <l>Over the <hi>Brittiſh</hi> Tribes that are</l>
+                           <l>All <hi>Judah</hi> and none <hi>Iſſachar,</hi>
+                           </l>
+                           <pb n="23" facs="tcp:49058:12"/>
+                           <l>To deal with ſpirits bold and free?</l>
+                           <l>But wee for ever have been wee,</l>
+                           <l>Yet when was <hi>Engliſh</hi> Prince ſo us'd as hee?</l>
+                        </lg>
+                        <lg>
+                           <l>I muſt confeſſe e'en in the open ſtreet</l>
+                           <l>Not to my Prieſt but t'all I meet,</l>
+                           <l>And do penance in this ſtreet;</l>
+                           <l>Religion it tottering ſtood,</l>
+                           <l>Philoſophy t'would do no good,</l>
+                           <l>Reaſon was at a loſſe do what it could;</l>
+                        </lg>
+                        <lg>
+                           <l>Theſe things ſeem'd that, or ſomething like unto't</l>
+                           <l>Which, though it do'nt his temper ſuite,</l>
+                           <l>Yet malice would to CHARLES impute;</l>
+                           <l>They like to Tyranny did look,</l>
+                           <l>And I did want a Conſtruing book,</l>
+                           <l>Was with a fit of <hi>Lucianiſme</hi> took;</l>
+                        </lg>
+                        <lg>
+                           <l>I could not brook in Fate ſuch uncouth Laws,</l>
+                           <l>I could not ſalve in her ſuch flaws,</l>
+                           <l>I could not ſolve ſuch <hi>Aenigma's;</hi>
+                           </l>
+                           <l>But that I knew the Queen of Kings,</l>
+                           <l>Miſtreſſe of Perſons and of Things</l>
+                           <l>
+                              <hi>Fortune</hi> doth ſtand upon a ball with wings;</l>
+                        </lg>
+                        <lg>
+                           <l>I knew the Fire <hi>Gold-Reall</hi> too muſt prove,</l>
+                           <l>That CHARLES was dear to him above</l>
+                           <l>With whom <hi>to chaſtiſe is to Love;</hi>
+                           </l>
+                           <l>That what is ſlowly's ſurely done,</l>
+                           <l>And whom heav'n will fix faſt in's throne.</l>
+                           <l>It is the longer ſetting him there-on:</l>
+                        </lg>
+                        <lg>
+                           <l>Then (Mighty Sir) at length aſcend your Throne,</l>
+                           <l>Poſſeſſe the ſeat long ſince your owne,</l>
+                           <l>And fill't with your Great-Selfe alone;</l>
+                           <l>Aſſume your Scepter and your Mound,</l>
+                           <l>Your (ah! but) gold- and pearl- ſet Round,</l>
+                           <l>Till better jewells, better mettall's found;</l>
+                        </lg>
+                        <lg>
+                           <pb n="24" facs="tcp:49058:13"/>
+                           <l>Hee mounts, h' aſcends, h'aſſumes his Diadem,</l>
+                           <l>Whoſe ev'ry ounce of gold and gemm</l>
+                           <l>Take worth from him, not he from them;</l>
+                           <l>A ſight which wo'nt be done when done,</l>
+                           <l>But ſtill and ſtill be thought upon,</l>
+                           <l>And thought on e'en convert <hi>Rebellion:</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>
+                              <hi>Mars</hi> thus would ſhine, and ſuch a preſence bear</l>
+                           <l>If, what a Comett once did dare,</l>
+                           <l>Hee'd ſit in <hi>Caſſiopea's</hi> chaire;</l>
+                           <l>
+                              <hi>Apollo</hi> would look with ſuch ſtate</l>
+                           <l>If when he does culminate</l>
+                           <l>His fore-head-beams were taught t'incorporate:</l>
+                        </lg>
+                        <lg>
+                           <l>This day Triumphant <hi>George</hi> doth claime as his;</l>
+                           <l>Indeed ſuch glory a proſpect is</l>
+                           <l>Only for ſuch a time as this;</l>
+                           <l>Nor is there the Solemnity</l>
+                           <l>In the leaſt with this can vie</l>
+                           <l>But yeſterday's Proaem'all bravery:</l>
+                        </lg>
+                        <lg>
+                           <l>How <hi>London</hi> was with the whole Nation lin'd!</l>
+                           <l>How was Lumbard-ſtreet outſhin'd,</l>
+                           <l>The Sunn to his own Spheare confin'd!</l>
+                           <l>How the rich mettalls did abound,</l>
+                           <l>As if the King return'd had found</l>
+                           <l>
+                              <hi>Rio de Plata</hi> flowing through his towne!</l>
+                        </lg>
+                        <lg>
+                           <l>How the firſt curious Arch was beautify'd,</l>
+                           <l>Yet both its cheekes in purple dy'd,</l>
+                           <l>Bluſhing that CHARLES ſhould through it ride!</l>
+                           <l>What rev'rence <hi>Thames</hi> to him did ſhew!</l>
+                           <l>How <hi>Neptune</hi> waving's Trident too</l>
+                           <l>Did from his ſtately Cabine homage doe!</l>
+                        </lg>
+                        <lg>
+                           <l>How did the Temple ovally aſcend,</l>
+                           <l>And by it's figure round portend</l>
+                           <l>This peace and joy ſhould have no end!</l>
+                           <pb n="25" facs="tcp:49058:13"/>
+                           <l>How did <hi>Flora's</hi> fruits revive,</l>
+                           <l>How did they grow a freſh and thrive</l>
+                           <l>To ſee Great <hi>Pan</hi> Great <hi>Pan</hi> again alive!</l>
+                        </lg>
+                        <lg>
+                           <l>How ſenſible the houſes were t'was HEE!</l>
+                           <l>How <hi>London</hi> would not Majeſty</l>
+                           <l>But in her gowne of <hi>Arras</hi> ſee!</l>
+                           <l>How long howres ſeem'd a little while</l>
+                           <l>Whileſt he giv'ing ev'ry ſtreet a ſmile</l>
+                           <l>Shott <hi>th'Huge, the Navall, Rurall, Sacred pile!</hi>
+                           </l>
+                        </lg>
+                        <lg>
+                           <l>Yet why do I one only Sacred call?</l>
+                           <l>
+                              <hi>Coeſar</hi> has conſecrated all</l>
+                           <l>In's Royall journy to <hi>White-hall:</hi>
+                           </l>
+                           <l>May they outlive like piles of ſtone;</l>
+                           <l>May they (at leaſt) be lett alone</l>
+                           <l>Till <hi>Livia</hi> too paſſe through them to the Throne:</l>
+                        </lg>
+                        <lg>
+                           <l>Goe, ſheath thy <hi>Dagger London;</hi> jarrings ceaſe;</l>
+                           <l>Have for thy paines an endleſſe peace,</l>
+                           <l>While CHARLES makes love and trade increaſe,</l>
+                           <l>The World (or Poëts gueſſe amiſſe)</l>
+                           <l>The World is in reverſion his,</l>
+                           <l>And thou deſign'd that World's <hi>Metropolis.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>You may a little wonder at the length of the <hi>Ode,</hi> but the Author being a native of <hi>England</hi> his Apology is made to his hand; whom when Loyalty had ſuffered to make an end, <hi>Apollo</hi> aroſe from his ſeat, and thanked him and all the reſt in a pitthy ſpeech, where-in he ſhewed himſelfe as much the Lord of Oratory as he is own'd to be of Poëtry, and then diſmiſt the aſſembly: So, Sir, craveing pardon for the trou<g ref="char:EOLhyphen"/>ble
+<pb n="26" facs="tcp:49058:14"/> I ſhall have put you to by that time you are come thus farr in the peruſall of theſe papers, and preſuming upon the graunt, I make haſt to ſubſcribe my ſelfe,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>
+                  <hi>Your unknown but reall humble Servant</hi> Bocalini Jun.</signed>
+            </closer>
+            <pb facs="tcp:49058:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
